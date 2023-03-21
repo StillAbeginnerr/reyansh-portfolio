@@ -1,0 +1,27 @@
+Reyansh Srivastava
+222 Elm Street
+Toronto, ON, M5T1K5
+reyansh.srivastava@georgebrown.ca
+March 13, 2023
+
+The Hiring Manger
+Meta
+230 King St
+Toronto, On M5V 3B2
+
+Dear sir/ma'am,
+
+I am excited to apply for the Data Engineer position at Meta as a recent graduate in computer science. I am eager to start my career in the field of data engineering, and I believe that this position offers an excellent opportunity to learn and grow in this field.
+
+Although I am a fresher, I have completed several data science courses and have hands-on experience working with Python, SQL, and data analysis tools like Excel and Tableau. I am also familiar with database management systems, data modeling, and data warehousing. During my academic projects, I have worked with data processing frameworks like Apache Spark and have also gained exposure to cloud computing platforms like AWS and Azure.
+
+As a highly motivated and detail-oriented individual, I am confident that I can apply my skills to this role and learn quickly on the job. I am excited about the opportunity to work with a team of experienced professionals and contribute to the company's success.
+
+Thank you for considering my application. I look forward to the opportunity to discuss my qualifications further.
+
+Sincerely,
+
+[Your Name]
+
+
+
